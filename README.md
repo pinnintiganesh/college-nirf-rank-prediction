@@ -57,5 +57,3 @@ The required parameters are:
 ## Results
 The model achieved a score of 93% and a root mean square error of 15.47, which demonstrates its accuracy in predicting college NIRF rankings.
 
-## Deployment
-The project was successfully deployed on Render and can be accessed here: https://college-nirf-rank-predictor.onrender.com/
