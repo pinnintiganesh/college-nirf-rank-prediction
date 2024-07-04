@@ -53,7 +53,14 @@ The required parameters are:
 * `go` - Graduation Outcomes score 
 * `oi` - Outreach and Inclusivity score 
 * `perception` - Perception score 
-* `peer_perception` - Peer Perception score 
+ 
 ## Results
-The model achieved a score of 93% and a root mean square error of 15.47, which demonstrates its accuracy in predicting college NIRF rankings.
+The model can be used in  predicting college NIRF rankings.
+
+
+![nirf output](https://github.com/pinnintiganesh/college-nirf-rank-prediction/assets/104311703/e83c0c37-9da3-4a12-9b64-5378f07d3467)
+![image](https://github.com/pinnintiganesh/college-nirf-rank-prediction/assets/104311703/42d0f520-07ff-4b7c-bb18-c382d2043fcf)
+
+
+
 
